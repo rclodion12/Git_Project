@@ -12,7 +12,7 @@ label1 = Label(fenetre, text="Bonjour Dehbia", bg="green")
 label1.pack()
 
 #bouton de sortie 
-bouton = Button(fenetre, text="Fermer", command=fenetre.quit)
-bouton.pack()
+#bouton = Button(fenetre, text="Fermer", command=fenetre.quit)
+#bouton.pack()
 
 fenetre.mainloop()
